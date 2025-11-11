@@ -31,16 +31,16 @@
 
 <!-- Replace <YOUR_GH_USERNAME> everywhere below -->
 <p align="center">
-  <a href="https://github.com/<YOUR_GH_USERNAME>">
+  <a href="https://github.com/<Bossbap>">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=<YOUR_GH_USERNAME>&show_icons=true&hide_title=true&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats.vercel.app/api?username=<Bossbap>&show_icons=true&hide_title=true&hide_border=true&rank_icon=github"
       height="150"
       alt="GitHub stats"
     />
   </a>
-  <a href="https://github.com/<YOUR_GH_USERNAME>">
+  <a href="https://github.com/<Bossbap>">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GH_USERNAME>&layout=compact&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Bossbap>&layout=compact&hide_border=true"
       height="150"
       alt="Top languages"
     />
