@@ -53,16 +53,13 @@
   </a>
 </p>
 
-<!-- Minimal streak graphic -->
 <p align="center">
-  <a href="https://github.com/Bossbap">
-    <img
-      src="https://streak-stats.demolab.com?user=<YOUR_GH_USERNAME>&hide_border=true"
-      height="150"
-      alt="GitHub streak"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bossbap&hide_border=true&bg_color=ffffff"
+    alt="Activity graph"
+  />
 </p>
+
 
 ---
 
