@@ -31,16 +31,16 @@
 
 <!-- Replace <YOUR_GH_USERNAME> everywhere below -->
 <p align="center">
-  <a href="https://github.com/<Bossbap>">
+  <a href="https://github.com/Bossbap">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=<Bossbap>&show_icons=true&hide_title=true&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats.vercel.app/api?username=Bossbap&show_icons=true&hide_title=true&hide_border=true&rank_icon=github"
       height="150"
       alt="GitHub stats"
     />
   </a>
-  <a href="https://github.com/<Bossbap>">
+  <a href="https://github.com/Bossbap">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Bossbap>&layout=compact&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossbap&layout=compact&hide_border=true"
       height="150"
       alt="Top languages"
     />
@@ -50,7 +50,7 @@
 <!-- Optional minimal streak graphic (clean, white) -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=<YOUR_GH_USERNAME>&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Bossbap&hide_border=true"
     height="150"
     alt="GitHub streak"
   />
