@@ -23,11 +23,11 @@
 
 ## About me
 
-I’m a second-year Master’s student in Data & AI at Institut Polytechnique de Paris, building a well-rounded understanding of artificial intelligence from both theoretical and practical perspectives.
+🎓 I’m a second-year Master’s student in Data & AI at Institut Polytechnique de Paris, building a well-rounded understanding of artificial intelligence from both theoretical and practical perspectives.
 
-Through projects spanning Machine Learning, Natural Language Processing, and Federated Learning, I’ve developed a versatile approach to problem-solving that blends mathematical rigor with practical implementation.
+🚀 Through projects spanning Machine Learning, Natural Language Processing, and Federated Learning, I’ve developed a versatile approach to problem-solving that blends mathematical rigor with practical implementation.
 
-Driven by both logic and curiosity, I find excitement in studying the underlying principles of intelligent systems and in witnessing how they transform our world.
+🔬 Driven by both logic and curiosity, I find excitement in studying the underlying principles of intelligent systems and in witnessing how they transform our world.
 
 🔍 I’m currently seeking an end-of-Master internship — feel free to reach out!
 
@@ -53,13 +53,15 @@ Driven by both logic and curiosity, I find excitement in studying the underlying
   </a>
 </p>
 
-<!-- Optional minimal streak graphic (clean, white) -->
+<!-- Minimal streak graphic -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Bossbap&hide_border=true"
-    height="150"
-    alt="GitHub streak"
-  />
+  <a href="https://github.com/Bossbap">
+    <img
+      src="https://streak-stats.demolab.com?user=<YOUR_GH_USERNAME>&hide_border=true"
+      height="150"
+      alt="GitHub streak"
+    />
+  </a>
 </p>
 
 ---
