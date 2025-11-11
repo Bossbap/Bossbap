@@ -9,7 +9,7 @@
     <a href="https://baptiste-geisenberger.vercel.app/" target="_blank">
       <img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/baptiste-geisenberger-aa0147236/" target="_blank">
+    <a href="https://www.linkedin.com/in/baptistegeis" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:baptistegeisenberger@hotmail.com">
@@ -23,7 +23,13 @@
 
 ## About me
 
-<!-- Write a short paragraph or bullet points here. Keep it tight and personable. -->
+I’m a second-year Master’s student in Data & AI at Institut Polytechnique de Paris, building a well-rounded understanding of artificial intelligence from both theoretical and practical perspectives.
+
+Through projects spanning Machine Learning, Natural Language Processing, and Federated Learning, I’ve developed a versatile approach to problem-solving that blends mathematical rigor with practical implementation.
+
+Driven by both logic and curiosity, I find excitement in studying the underlying principles of intelligent systems and in witnessing how they transform our world.
+
+🔍 I’m currently seeking an end-of-Master internship — feel free to reach out!
 
 ---
 
@@ -60,4 +66,12 @@
 
 ## Ongoing projects
 
-<!-- Add cards/links/bullets to current projects. Keep it concise. -->
+🧠 Bliss — a unified client selection framework for cross-device Federated Learning.
+
+* Combines predictive client sampling (based on system features and past utility) with adaptive training to optimize wall-clock convergence time.
+
+* Evaluated on large-scale benchmarks such as FEMNIST and Google Speech Commands using FedScale.
+
+* Builds upon and extends the ideas behind Oort and PyramidFL.
+
+* Aims to improve both system efficiency and statistical performance within realistic time budgets.
