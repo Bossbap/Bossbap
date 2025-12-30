@@ -36,22 +36,6 @@
 ## GitHub stats
 
 <!-- Replace <YOUR_GH_USERNAME> everywhere below -->
-<p align="center">
-  <a href="https://github.com/Bossbap">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Bossbap&show_icons=true&hide_title=true&hide_border=true&rank_icon=github"
-      height="150"
-      alt="GitHub stats"
-    />
-  </a>
-  <a href="https://github.com/Bossbap">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossbap&layout=compact&hide_border=true"
-      height="150"
-      alt="Top languages"
-    />
-  </a>
-</p>
 
 <p align="center">
   <img
