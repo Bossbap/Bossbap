@@ -33,12 +33,10 @@
 
 ---
 
----
-
 ## GitHub stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Bossbap" alt="Bossbap's GitHub Contributions Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bossbap&theme=react-dark&hide_border=true&v=refresh1" alt="Baptiste's GitHub Activity Graph" />
 </p>
 
 ---
