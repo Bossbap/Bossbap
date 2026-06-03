@@ -1,8 +1,10 @@
+<!-- Profile README for Baptiste Geisenberger -->
 <div align="center">
 
   <h1>👋 Hi, I'm Baptiste Geisenberger</h1>
-  <p><b>AI Engineer Intern at QIMA</b> · Bridging Machine Learning, Data Science & Governance</p>
+  <p><b>Data & AI Student at IP Paris</b> · Passionate about ML</p> <!-- -->
 
+  <!-- Contact -->
   <p>
     <a href="https://baptiste-geisenberger.vercel.app/" target="_blank">
       <img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -21,29 +23,33 @@
 
 ## About me
 
-🎓 **Academic Background:** I hold an M.Sc. in Data & AI from the Institut Polytechnique de Paris and am completing a Master’s in Transnational Governance at the European University Institute (EUI), focusing on the geopolitical and systemic implications of AI.
+🎓 I’m a second-year Master’s student in Data & AI at Institut Polytechnique de Paris, building a well-rounded understanding of artificial intelligence from both theoretical and practical perspectives. <!-- -->
 
-🚀 **Current Focus:** Working as an AI Engineer Intern at QIMA within the Testing, Inspection, and Certification (TIC) industry, building practical, scalable intelligent systems. 
+🚀 Through projects spanning Machine Learning, Natural Language Processing, and Federated Learning, I’ve developed a versatile approach to problem-solving that blends mathematical rigor with practical implementation. <!-- -->
 
-🔬 **Approach:** Whether optimizing decentralized systems or evaluating model behavior, I look to combine mathematical rigor with robust implementation to build transparent, efficient AI.
+🔬 Driven by both logic and curiosity, I find excitement in studying the underlying principles of intelligent systems and in witnessing how they transform our world.
+
+🔍 I’m currently seeking an end-of-Master internship — feel free to reach out!
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Bossbap" alt="Baptiste's GitHub Contribution Chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bossbap/Bossbap/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bossbap/Bossbap/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Grid" src="https://raw.githubusercontent.com/Bossbap/Bossbap/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
 ## Ongoing projects
 
-🧠 **Bliss** — A unified client selection framework for cross-device Federated Learning.
-* Combines predictive client sampling (based on system features and past utility) with adaptive training to optimize wall-clock convergence time.
-* Evaluated on large-scale benchmarks such as FEMNIST and Google Speech Commands using FedScale.
-* Builds upon and extends the ideas behind Oort and PyramidFL to improve system efficiency and statistical performance.
+🧠 Bliss — a unified client selection framework for cross-device Federated Learning. <!-- -->
 
-⚖️ **Rule of Robots / Rule of LLMs** — Audit pipeline for LLM evaluation.
-* Designing an elicitation pipeline to audit Large Language Models for systemic political and cultural biases.
-* Benchmarking and evaluating model responses against the World Justice Project (WJP) Rule of Law Index to quantify alignment variations.
+* Combines predictive client sampling (based on system features and past utility) with adaptive training to optimize wall-clock convergence time. <!-- -->
+* Evaluated on large-scale benchmarks such as FEMNIST and Google Speech Commands using FedScale. <!-- -->
+* Builds upon and extends the ideas behind Oort and PyramidFL. <!-- -->
+* Aims to improve both system efficiency and statistical performance within realistic time budgets. <!-- -->
