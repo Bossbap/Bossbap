@@ -32,8 +32,8 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bossbap&show_icons=true&theme=default&hide_border=true" alt="Baptiste's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossbap&theme=default&hide_border=true" alt="Baptiste's GitHub streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bossbap&show_icons=true&theme=default&hide_border=true&cache_seconds=1800&v=1" alt="Baptiste's GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossbap&theme=default&hide_border=true&v=1" alt="Baptiste's GitHub streak" height="180" />
 </p>
 
 ---
