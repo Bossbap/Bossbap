@@ -6,7 +6,7 @@
 
   <!-- Contact -->
   <p>
-    <a href="https://baptiste-geisenberger.vercel.app/" target="_blank">
+    <a href="https://baptistegeisenberger.vercel.app/" target="_blank">
       <img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/baptistegeis" target="_blank">
